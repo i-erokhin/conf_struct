@@ -3,6 +3,9 @@ conf_struct
 
 Golang library for build validated and filtered configuration structures from different sources.
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/i-erokhin/conf_struct)](https://goreportcard.com/report/github.com/i-erokhin/conf_struct)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/i-erokhin/conf_struct/blob/master/LICENSE)
+
 Usage example
 =============
 
