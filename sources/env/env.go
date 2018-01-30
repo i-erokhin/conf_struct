@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	lib "github.com/i-erokhin/go-conf-struct"
+	lib "github.com/i-erokhin/conf-struct"
 )
 
 type Source struct {
