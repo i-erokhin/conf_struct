@@ -102,7 +102,7 @@ import (
 )
 
 func Get() (*Conf, []error) {
-    s := env.Source{Prefix: "AGS_"}
+    s := env.Source{Prefix: "PRJ_"}
     b := conf_struct.Builder{}
 
     conf := Conf{
