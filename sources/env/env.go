@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	lib "github.com/i-erokhin/conf-struct"
+	lib "github.com/i-erokhin/conf_struct"
 )
 
 type Source struct {
