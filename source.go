@@ -1,4 +1,4 @@
-package go_conf_struct
+package conf_struct
 
 type Var struct {
 	Value string
